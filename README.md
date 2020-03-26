@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-hello world
+hello
 =======
 
